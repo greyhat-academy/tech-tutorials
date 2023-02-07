@@ -13,7 +13,7 @@
 - Desktop Apps
   - Thunderbird
     - Setup
-    - GnuPG for Tech-Illiterates
+    - OpenPGP for Tech-Illiterates
   - Firefox
   - Tor Browser Bundle
   - OnionShare
@@ -29,7 +29,9 @@
   - Linphone
   - LibreOffice
   - KeePassXC
+  - Enpass
   - ntfy
+  - Quassel IRC
 - Android Apps
   - F-Droid
   - K9-Mail / Thunderbird Mobile
@@ -44,22 +46,26 @@
   - Zulip
   - AirGuard
   - KeePassDX
+  - Enpass
   - ntfy
   - nextcloud
 - CLI tools
   - File Operaton & Navigation Basics
-  - Network Basics
-  - GnuPG
+  - .bash_aliases
+  - Network Basics & Diagnostics
+    - netplan.io
+  - GnuPG / OpenPGP
   - git
   - dmcrypt
   - cfdisk
-  - VeraCrypt
+  - VeraCrypt-cli
   - dd
   - ddrescue
   - ntfy
   - wsend
   - curl
   - wget
+  - youtube-dl
 - Servers
   - VERY IMPORTANT PREAMBLE!
   - nextcloud
