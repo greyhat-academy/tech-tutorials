@@ -10,7 +10,7 @@
   2. [Basic Linux Setup](/basics/2-basic-linux-setup.md)
   3. [What now?](/basics/3-what-now.md)
   4. [Basic Security](/basics/4-basic-security.md)
-- Application-Specific
+- Desktop Apps
   - Thunderbird
     - Setup
     - GnuPG for Tech-Illiterates
@@ -22,7 +22,30 @@
   - Dayon! Assistant
   - VeraCrypt
   - gparted
+  - Mumble
+  - WebCall
+  - Jitsi Meet
+  - nextcloud
+  - Linphone
   - LibreOffice
+  - KeePassXC
+  - ntfy
+- Android Apps
+  - F-Droid
+  - K9-Mail / Thunderbird Mobile
+  - Firefox Mobile / Fennec
+  - monocles chat 
+  - Tusky
+  - Linphone
+  - WebCall
+  - Jitsi Meet
+  - Squircle Code Editor
+  - Tor Browser
+  - Zulip
+  - AirGuard
+  - KeePassDX
+  - ntfy
+  - nextcloud
 - CLI tools
   - File Operaton & Navigation Basics
   - Network Basics
@@ -33,12 +56,17 @@
   - VeraCrypt
   - dd
   - ddrescue
+  - ntfy
+  - wsend
+  - curl
+  - wget
 - Servers
-  - VERY IMPORTANT PREAMBLE
+  - VERY IMPORTANT PREAMBLE!
   - nextcloud
   - Jitsi Meet
   - Zulip
   - SMB/CIFS
+  - gitea
 - Networking
   - Routing
     - pfSense / OPNsense
