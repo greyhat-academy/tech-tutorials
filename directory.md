@@ -1,8 +1,7 @@
 # Directory
 
 ---
-
-#### Where you find stuff...
+### Where you find stuff...
 
 - Basics 
   0. [Preamble](/basics/0-preamble.md)
@@ -10,6 +9,15 @@
   2. [Basic Linux Setup](/basics/2-basic-linux-setup.md)
   3. [What now?](/basics/3-what-now.md)
   4. [Basic Security](/basics/4-basic-security.md)
+- Footnotes
+  - [License](LICENSE.md)
+  - [Further Reading](further-reading.md)
+  - [Sources](sources.md)
+  - [Readme](README.md)
+- [Main Directory](directory.md)
+
+--- 
+### TODO:
 - Desktop Apps
   - Thunderbird
     - Setup
@@ -66,6 +74,7 @@
   - curl
   - wget
   - youtube-dl
+  - ntfy.sh
 - Servers
   - VERY IMPORTANT PREAMBLE!
   - nextcloud
@@ -73,6 +82,8 @@
   - Zulip
   - SMB/CIFS
   - gitea
+  - ntfy
+  - oshi
 - Networking
   - Routing
     - pfSense / OPNsense
@@ -85,14 +96,9 @@
     - WireGuard
     - IPsec
 - Recommended Services
+  - FAQ: "Why isn't X listed here?"
   - eMail
   - XMPP
   - File Sharing
   - Social Media
-  - Why isn't X listed here?
-- Footnotes
-  - [License](LICENSE.md)
-  - [Further Reading](further-reading.md)
-  - [Sources](sources.md)
-  - [Readme](README.md)
-- [Main Directory](directory.md)
+  - other
