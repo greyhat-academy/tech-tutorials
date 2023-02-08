@@ -1,4 +1,4 @@
-# Tech [Tutorial](https://en.wikipedia.org/wiki/Tutorial)
+# Tech [Tutorials](https://en.wikipedia.org/wiki/Tutorial)
 Teaching Tech basics to reduce #TechIlliteracy (Technological Illiteracy)...
 
 ---
